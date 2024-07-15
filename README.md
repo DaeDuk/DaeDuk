@@ -1,4 +1,5 @@
-## Hello!! This Duck~ 🤔
+## Hello!! This is Duck~ 🤔
+## 안녕하세요! 오리입니다~ 🤔
 
 <!--
 **DaeDuk/DaeDuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
